@@ -11,12 +11,11 @@ const questions = [
   },
   {
     "id": "02",
-    "question":
-        "Aplicativos Flutter são escritos em qual linguagem de programação. \n\n"
-            "a) C \n"
-            "b) Dart \n"
-            "c) C++ \n"
-            "d) Swift",
-    "answer": "Dart"
+    "question": "Qual o maior goleador de todos os tempos? \n\n"
+        "a) Josef Bican \n"
+        "b) Cristiano Ronaldo \n"
+        "c) Pelé  \n"
+        "d) Romário",
+    "answer": "Cristiano Ronaldo"
   },
 ];
