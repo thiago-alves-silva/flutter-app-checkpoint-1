@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # checkpoint_1
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-app-checkpoint-1
+Aplicativo desenvolvido em Flutter seguindo os requisitos da atividade do Checkpoint 01 da disciplina de Desenvolvimento Cross Plataform
+>>>>>>> 5307862b765af7a9fab4f248c316c74b3028d37e
