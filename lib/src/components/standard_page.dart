@@ -21,6 +21,7 @@ class StandardPage extends StatelessWidget {
             left: 30,
           ),
           child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: children,
           )),
     );
